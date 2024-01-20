@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Twitter;
+    src: url(./assets/segoe-ui-4-cufonfonts/Segoe\ UI.ttf);
+}
+*{
+    font-family: Twitter;
+    color: white;
+    scroll-behavior: smooth;
+}
