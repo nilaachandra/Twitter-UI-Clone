@@ -7,3 +7,9 @@
     color: white;
     scroll-behavior: smooth;
 }
+
+.menuHover:hover{
+    background-color: #2b2e34;
+    border-radius: 50px;
+    transition: 0.32s;
+}
