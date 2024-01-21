@@ -1,15 +1,16 @@
 @font-face {
-    font-family: Twitter;
-    src: url(./assets/segoe-ui-4-cufonfonts/Segoe\ UI.ttf);
+  font-family: Twitter;
+  src: url(./assets/segoe-ui-4-cufonfonts/Segoe\ UI.ttf);
 }
-*{
-    font-family: Twitter;
-    color: white;
-    scroll-behavior: smooth;
+* {
+  font-family: Twitter;
+  color: white;
+  scroll-behavior: smooth;
 }
 
-.menuHover:hover{
-    background-color: #2b2e34;
-    border-radius: 50px;
-    transition: 0.32s;
+.menuHover:hover {
+  background-color: #2b2e34;
+  border-radius: 50px;
+  transition: 0.32s;
+  cursor: pointer;
 }
